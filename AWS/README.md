@@ -1,11 +1,13 @@
 ![AWS-Certified-Solutions-Architect-Associate_badge](assets/images/AWS-Certified-Solutions-Architect-Associate_badge.png)
 
-<h1> **[AWS Certified Solutions Architect ‒ Associate](https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1)** </h1>
+<h1>
+	<a href="https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1">AWS Certified Solutions Architect ‒ Associate] </a>
+</h1>
 
 <h3> Temas abordados no treinamento de SysOps </h3>
 
 <h5> 1- Well Architected </h5>
-*[Well Architected](https://wa.aws.amazon.com/wat.pillars.wa-pillars.pt_BR.html)*
+<a href="https://wa.aws.amazon.com/wat.pillars.wa-pillars.pt_BR.html">Well Architected</a>
 
 <h5> 2- AWS System Manager </h5>
 
