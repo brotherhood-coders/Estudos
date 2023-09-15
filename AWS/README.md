@@ -1,7 +1,7 @@
 ![AWS-Certified-Solutions-Architect-Associate_badge](assets/images/AWS-Certified-Solutions-Architect-Associate_badge.png)
 
 <h1>
-	<a href="https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1">AWS Certified Solutions Architect ‒ Associate] </a>
+	<a href="https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1">AWS Certified Solutions Architect ‒ Associate </a>
 </h1>
 
 <h3> Temas abordados no treinamento de SysOps </h3>
@@ -60,6 +60,7 @@
 <h5> 26- AWS Backup </h5>
 
 <h5> 27- Cloud 9 </h5>
+
 <h5> 28- AWS Cost Explorer </h5>
 
 <h5> 29- AWS Budgets </h5>
