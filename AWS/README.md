@@ -1,6 +1,7 @@
 # Temas abordados no treinamento de SysOps
 
 ## 1- Well Architected
+### Paper: https://wa.aws.amazon.com/wat.pillars.wa-pillars.pt_BR.html
 ## 2- AWS System Manager
 ## 3- AWS Config 
 ## 4- Cloudwatch 
