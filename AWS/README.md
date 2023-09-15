@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](/assets/images/AWS-Certified-Solutions-Architect-Associate_badge.png)
+![Tux, the Linux mascot](assets/images/AWS-Certified-Solutions-Architect-Associate_badge.png)
 
 # **[AWS Certified Solutions Architect ‒ Associate](https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1)**
 
